@@ -1,9 +1,6 @@
 ### Hey 👋
 > Made in the USA, quality assured in Canada
 
-### 😄 Pronouns
-- He/him
-
 ### 🔭 Working on
 - Building a mechnical keyboard
 - Typing speed (~120)
