@@ -2,12 +2,11 @@
 > Made in the USA, quality assured in Canada
 
 - 🔭 Working on - Building a mechnical keyboard
-- 🌱 Learning - More backend, .Net
+- 🌱 Learning - More backend, Azure Cert
 - 🔥 Proficient in - Node/React/Javascript 
-- ⚡ Fun fact - Bees shouldn't be abl to fly
+- ⚡ Fun fact - Bees shouldn't be able to fly
 - ✨Other
   - 🕴️  [Linkedin](https://www.linkedin.com/in/neal-mcaneney/) if you're into that
-  - 🌎 [My Website](https://www.nealjmc.ca)
 <!--
 **nealjmc/nealjmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
