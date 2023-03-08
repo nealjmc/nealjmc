@@ -1,10 +1,10 @@
 ### Hey 👋
 > Made in the USA, quality assured in Canada
 
-- 🔭 Working on - Building a mechnical keyboard
-- 🌱 Learning - More backend, Azure Cert
-- 🔥 Proficient in - Node/React/Javascript 
-- ⚡ Fun fact - Bees shouldn't be able to fly
+- 🔭 Working on - MuleSoft Developer Certification
+- 🌱 Learning - More MuleSoft
+- 🔥 Proficient in - MuleSoft, Javascript(Node, React)
+- ⚡ Fun fact - I like Mechnical Keyboards
 - ✨Other
   - 🕴️  [Linkedin](https://www.linkedin.com/in/neal-mcaneney/) if you're into that
 <!--
