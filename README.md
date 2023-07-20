@@ -1,10 +1,9 @@
 ### Hey 👋
 > Made in the USA, quality assured in Canada
 
-- 🔭 Working on - MuleSoft Developer Certification
-- 🌱 Learning - More MuleSoft
+- 🔭 Learning more Mulesoft
 - 🔥 Proficient in - MuleSoft, Javascript(Node, React)
-- ⚡ Fun fact - I like Mechnical Keyboards
+- ⚡ Fun fact - I like Mechnical Keyboards([I built one, check it out](https://github.com/nealjmc/discipline65-build))
 - ✨Other
   - 🕴️  [Linkedin](https://www.linkedin.com/in/neal-mcaneney/) if you're into that
 <!--
