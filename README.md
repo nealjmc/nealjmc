@@ -1,7 +1,7 @@
 ### Hey 👋
 > Made in the USA, quality assured in Canada
 
-- 🔭 Learning more Mulesoft
+- 🔭 Learning more Mulesoft & Go
 - 🔥 Proficient in - MuleSoft, Javascript(Node, React)
 - ⚡ Fun fact - I like Mechnical Keyboards([I built one, check it out](https://github.com/nealjmc/discipline65-build))
 - ✨Other
